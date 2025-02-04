@@ -26,8 +26,8 @@ def generate_qr_code(data, filename):
     img.save(filename)
 
 def send_email(to_email, subject, body, attachment_path):
-    from_email = 'dar@ati.gov.et'  # Replace with your email
-    from_password = 'Di@#ati24'  # Replace with your email password
+    from_email = 'jfhfhhf'  # Replace with your email
+    from_password = 'fggfggfgf'  # Replace with your email password
 
     msg = MIMEMultipart()
     msg['From'] = from_email
